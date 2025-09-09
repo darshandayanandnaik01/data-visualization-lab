@@ -1,4 +1,4 @@
-# Data Visualization Lab (BADL504)
+# Data Visualization Lab 
 
 This repository contains the **Data Visualization Lab syllabus and reference material**  
 for Semester IV – Artificial Intelligence & Data Science.
